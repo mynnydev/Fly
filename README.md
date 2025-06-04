@@ -1,41 +1,41 @@
-# ✈️ FlyCommand – Einfach fliegen in Minecraft 1.21
+# ✈️ FlyCommand – Simple Flight for Minecraft 1.21
 
-**FlyCommand** ist ein leichtgewichtiges und bewusst simples Plugin für Minecraft 1.21, das genau das tut, was es soll:  
-Spielern das Fliegen per `/fly` ermöglichen – ohne Schnickschnack.
+**FlyCommand** is a lightweight and intentionally simple plugin for Minecraft 1.21 that does exactly what it says:  
+Allows players to toggle flight with `/fly` — no bells and whistles.
 
 ---
 
-## ✅ Getestete Versionen
+## ✅ Tested Versions
 
 - Minecraft 1.21.1  
 - Minecraft 1.21.3  
 - Minecraft 1.21.4  
-> Getestet auf **Paper**
+> Tested on **Paper**
 
 ---
 
-## 💡 Funktionen
+## 💡 Features
 
-- Einfacher Flugmodus per Befehl: `/fly`
-- Kein Setup, keine Konfiguration nötig
-- Ideal für Survival-, Bau- oder Freebuild-Server
+- Simple flight toggle command: `/fly`  
+- No setup or configuration needed  
+- Perfect for survival, creative, or build servers
 
 ---
 
-## 🔐 Berechtigung
+## 🔐 Permission
 
-- `fly.use` – notwendig, um den `/fly`-Befehl zu verwenden
+- `fly.use` – required to use the `/fly` command
 
 ---
 
 ## 🔄 Updates
 
-Dieses Plugin wird **selten oder möglicherweise gar nicht mehr aktualisiert**.  
-Der Quellcode ist vollständig offen und unter der **MIT-Lizenz** veröffentlicht – du darfst ihn also frei verwenden, anpassen oder in eigene Projekte übernehmen.
+This plugin will be **rarely or possibly never updated**.  
+The source code is fully open and released under the **MIT License** — feel free to use, modify, or incorporate it into your own projects.
 
 ---
 
 ## ⚙️ Status
 
-Funktioniert in den getesteten Versionen zuverlässig.  
-Für andere Versionen kann keine Garantie übernommen werden – ausprobieren lohnt sich aber trotzdem. 😊
+Works reliably on the tested versions.  
+No guarantees for other versions — but feel free to try it out anyway! 😊
