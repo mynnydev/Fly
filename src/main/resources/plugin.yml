@@ -1,0 +1,12 @@
+name: Fly
+version: '1.0.0-1.21.4'
+main: dev.mynny.fly.Main
+api-version: '1.21'
+load: STARTUP
+authors: [ Mynny ]
+description: Fly Plugin
+website: discord.seasonworld.net
+
+commands:
+  fly:
+    description: Enable or disable your flight mode.
