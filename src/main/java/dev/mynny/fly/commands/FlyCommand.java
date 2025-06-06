@@ -19,7 +19,7 @@ public class FlyCommand implements CommandExecutor {
                 boolean newFlyState = !player.getAllowFlight();
                 player.setAllowFlight(newFlyState);
                 player.setFlying(newFlyState);
-                player.sendMessage(newFlyState ? ChatColor.of("#7afc00") + "Fly enabled △" : ChatColor.of("#fc0000") + "Flugmodus disabled ▽");
+                player.sendMessage(newFlyState ? ChatColor.of("#7afc00") + "Fly enabled △" : ChatColor.of("#fc0000") + "Fly disabled ▽");
                 player.playSound(player.getLocation(), Sound.BLOCK_NOTE_BLOCK_CHIME, 1, 1);
             } else {
                 player.sendMessage(ChatColor.of("#fc0000") + Main.NO_PERMISSION_MESSAGE);
