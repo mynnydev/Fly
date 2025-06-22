@@ -2,7 +2,7 @@
 name: Bug Report
 about: Report a bug in the FlyCommand plugin for Paper 1.21
 title: "[BUG]"
-labels: bug
+labels: bug, question
 assignees: ''
 
 ---

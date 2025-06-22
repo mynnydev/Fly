@@ -2,7 +2,7 @@
 name: Support Request
 about: Ask a question or get help with using FlyCommand
 title: "[SUPPORT]"
-labels: question
+labels: compatibility, question
 assignees: ''
 
 ---
